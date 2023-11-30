@@ -1,3 +1,3 @@
-# TSLA_GME
+# Capstone Project_IBM
 
 Hands-on Lab: Analyzing Historical Stock/Revenue Data and Building a Dashboard
